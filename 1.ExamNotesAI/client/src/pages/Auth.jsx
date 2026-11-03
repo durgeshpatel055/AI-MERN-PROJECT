@@ -15,10 +15,10 @@ function Auth() {
        px-8 py-6
        shadow-[0_20px_45px_rgba(0,0,0,0.6)]'
        >
-        <h1 className='text-2xl font-bold bg-linear-to-r from-white via-grey-300 to=white bg-clip-text text-transparent'>ExamNotes AI</h1>
+        <h1 className='text-2xl font-bold bg-linear-to-r from-white via-grey-300 to-white bg-clip-text text-transparent'>ExamNotes AI</h1>
         <p className="">AI-Powered exam-oriented notes & revision</p>
        </motion.header>
-       
+
     </div>
   )
 }
