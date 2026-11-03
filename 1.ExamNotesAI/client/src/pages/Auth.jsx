@@ -18,6 +18,7 @@ function Auth() {
         <h1 className='text-2xl font-bold bg-linear-to-r from-white via-grey-300 to=white bg-clip-text text-transparent'>ExamNotes AI</h1>
         <p className="">AI-Powered exam-oriented notes & revision</p>
        </motion.header>
+       
     </div>
   )
 }
