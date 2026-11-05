@@ -48,9 +48,11 @@ function Auth() {
           </motion.button>
 
         <p className='mt-6 max-w-xl text-Ig bg-gradient-to-br from-gray-700 via-gray-500/80 to-gray-700 bg-clip-text text-transparent'>
-        You Get <span className='font semibold'>50 FREE Credits</span> to create download clean PDFs - instantly using AI.
+        You Get <span className='font semibold'>50 FREE Credits</span> to create exam notes, project notes, charts, graphs and download clean PDFs - instantly using AI.
         </p>
-          <p className=''>Start With 50 Free credits • </p>
+          <p className='mt-4 text-sm text-gray-500'>
+            Start With 50 Free credits • Upgrade anytime for more credits •Instant access
+          </p>
       </motion.div>
 
         {/* RIGHT CONTENT */}
