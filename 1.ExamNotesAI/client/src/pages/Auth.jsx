@@ -4,6 +4,7 @@ import { FcGoogle } from "react-icons/fc";
 
 function Auth() {
   return (
+    #function starts here,
     <div className='min-h-screen overflow-hidden bg-white text-black px-8'>
        <motion.header 
        initial = {{opacity:0 , y:-15}}
